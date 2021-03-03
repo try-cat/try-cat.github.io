@@ -7,8 +7,8 @@ pygments: false
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://fullit.github.io
-baseurl: "/fullit.github.io"
+url: "http://try-cat.github.io"
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
